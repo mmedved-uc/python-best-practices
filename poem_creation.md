@@ -9,7 +9,7 @@ Alexandra Lamtyugina |
 Alexandria Im |
 Anastasia Bernat | from "The hut where the moon stays" by Monchoachi, "What is more catastrophic than writing and the earth?"
 Anchita Addhya |
-Andrea Watson |
+Andrea Watson | Hello world!
 Andrew Leonard |
 Anjali Das |
 Anshuman Pal |
@@ -27,7 +27,7 @@ Callista Christ |
 Cassandra Manrique |
 Chandler Haxton |Shoot for the moon; even if you miss, you'll land amongst the stars
 Curtis Zhuang |
-Daniel Beckett |
+Daniel Beckett | Birds are important.
 Danijela Mojsilovic |
 Dimitrios Tanoglidis | a persons's reach should exceed their grasp
 Donghyun Kang |
@@ -101,7 +101,7 @@ Priyanka Karekar |
 Qi Zhan |
 Renee Fonseca |
 Robert Van |
-Robert Volgman |
+Robert Volgman | There is a light in every darkness;
 Robin Li |
 Roger Engelmann |
 Rose Sfeir |

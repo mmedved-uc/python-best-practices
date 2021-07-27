@@ -37,7 +37,7 @@ Eric Van Camp | The best time to start is now!
 Eric Hoy |
 Felicia Hou |
 Fritz Ratnasamy |
-Grant Harris |
+Grant Harris | Remember, the sooner you get behind the more time you have to catch up.
 Hailu Kong |
 Heidi Hendrickson |
 Ian Hammock |
@@ -81,7 +81,7 @@ Megan Barnett |
 Michaela Klimova |
 Michelle Nguyen |
 Mien Nguyen |
-Mike Jones |
+Mike Jones | Who?
 Milica Medved |
 Minhui Chen |
 Mohammad Shaheryar Furqan |
@@ -95,7 +95,7 @@ Oishee Chakrabarti | Ad astra per aspera;
 Oliver Tang |
 Peter Ryan |
 Phillip Betts |
-Phillip Lo |
+Phillip Lo | Je voudrais une baguette, s'il vous plait
 Praveen Sundaresan Ramesh |
 Priyanka Karekar |
 Qi Zhan |

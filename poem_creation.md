@@ -82,7 +82,7 @@ Michaela Klimova |
 Michelle Nguyen |
 Mien Nguyen |
 Mike Jones |
-Milica Medved |
+Milica Medved |  Accentuate the positive,
 Minhui Chen |
 Mohammad Shaheryar Furqan |
 Namitha Shaji |

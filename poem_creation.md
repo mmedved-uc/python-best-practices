@@ -7,7 +7,7 @@ Akshay Ratnawat |
 Aleksandr Lykhin |
 Alexandra Lamtyugina |
 Alexandria Im |
-Anastasia Bernat |
+Anastasia Bernat | from "The hut where the moon stays" by Monchoachi, "What is more catastrophic than writing and the earth?"
 Anchita Addhya |
 Andrea Watson |
 Andrew Leonard |
@@ -17,7 +17,7 @@ Asha Makwana |
 Austin Sky |
 Austin Sky |
 Ava Waggett |
-Ayush Raj |
+Ayush Raj | We're all in this together;
 Ben Rose |
 Blair Vorsatz |
 Bowei Kang |
@@ -25,7 +25,7 @@ Brian Petersen |
 Bryan Brickman |
 Callista Christ |
 Cassandra Manrique |
-Chandler Haxton |
+Chandler Haxton |Shoot for the moon; even if you miss, you'll land amongst the stars
 Curtis Zhuang |
 Daniel Beckett |
 Danijela Mojsilovic |
@@ -33,7 +33,7 @@ Dimitrios Tanoglidis | a persons's reach should exceed their grasp
 Donghyun Kang |
 Eman Shahzad |
 Emily Chen |
-Eric Van Camp |
+Eric Van Camp | The best time to start is now!
 Eric Hoy |
 Felicia Hou |
 Fritz Ratnasamy |
@@ -57,7 +57,7 @@ Kaihua Ding |
 Kaining Hu |
 Ken Rata |
 Kristi Angel |
-Kyla Mullaney |
+Kyla Mullaney | You can do it
 Leticia Stock |
 Letitia Ho |
 Lin Gui |
@@ -67,7 +67,7 @@ Louise Heelan |
 Louise Wang |
 Luis Ibanez |
 Luis Ramirez |
-Madison  Martin |
+Madison  Martin | Problems in the world are opportunities for change
 Manasi Phadnis |
 Mandy Chen |
 Manickam Umasuthan |
@@ -107,11 +107,11 @@ Roger Engelmann |
 Rose Sfeir |
 Sabarish Shankar |
 Sabina Hartnett |
-Satya Aduri |
+Satya Aduri | HELP EVER HURT NEVER 
 Senling Shu |
 Shafi Azam |
 Shi-Ning Sun |
-Shiyin Jiao |
+Shiyin Jiao | The best is yet to come
 Shuqiong Zhao |
 Simin Jin |
 Sindhusree Aita |
@@ -126,7 +126,7 @@ Wen Han Chiu |
 Xinran Lian |
 Xinyou Ma |
 Yifan Gao |
-Yiheng wu |
+Yiheng wu | hi man
 Yiming Zhong |
 Yu Xiao |
 Yueyang Zhong |
